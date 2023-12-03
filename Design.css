@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to right,rgb(128, 186, 177), rgb(182, 208, 237));
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.LoginPage{
+    justify-content: center;
+    align-items: center;
+    
+    background-color: blanchedalmond;
+    box-sizing: border-box;
+    border: #693f3f;
+   
+}
+
+.myblogs{
+position: fixed;
+top: 0;
+right: 0;
+padding: 20px;
+max-width: 600px; 
+z-index: 999;
+}
+.input-field {
+    width: 300px; 
+    height: auto; 
+  }
+  
+  .text-area {
+    width: 300px; 
+    height: auto; 
+  }
